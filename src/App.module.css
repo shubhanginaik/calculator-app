@@ -4,21 +4,3 @@
   border-radius: 5px;
   margin: 10px;
 }
-.display {
-  width: 170px;
-  margin: 10px;
-  font-size: 25px;
-}
-
-.buttonsContainer {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.button {
-  background-color: aquamarine;
-  width: 45px;
-  height: 45px;
-  margin: 3px;
-}
